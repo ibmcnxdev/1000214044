@@ -1,0 +1,21 @@
+{
+    "extensions": [
+      {
+        "path": "global",
+        "application": "Compensar Theme Customization",
+        "payload": {
+          "include-files": [
+            "chanel/chanel-theme.js"
+          ]
+        },
+        "name": "Compensar Theme Customization Extension",
+        "type": "com.ibm.customizer.ui"
+      }
+    ],
+    "name": "Compensar Theme Customization",
+    "description": "Compensar Theme Customization",
+    "services": [
+      "Customizer"
+    ],
+    "title": "Compensar Theme Customization"
+  }
