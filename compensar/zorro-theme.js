@@ -24,6 +24,4 @@ if (typeof (dojo) != "undefined") {
         dojo.doc.head,
         "last"
     );
-    waitFor(function() {document.querySelector('.orglogo').src = 'http://voyageursdusoir.vendee.fr/wp-content/uploads/2015/09/Z-604x270.png';}, '.orglogo')
-
 }

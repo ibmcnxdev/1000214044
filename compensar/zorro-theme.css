@@ -5516,8 +5516,8 @@ html:not(.lconnFiles) body:not(.simplepage).lotusui30 .lotusFrame #removeBlankFo
 }
 
 .lotusui30 {
-    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Compensar_logo.svg/2000px-Compensar_logo.svg.png");
-    background-size: 40%;
+    background: url("https://apps.na.collabserv.com/xcc/rest/files/custom/logoBgCompensar.png");
+    background-size: 30%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
