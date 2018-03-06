@@ -18,22 +18,10 @@ var waitFor = function (callback, elXpath, maxInter, waitTime) {
 };
 
 if (typeof (dojo) != "undefined") {
-  if (!inIframe){
     dojo.place(
         //        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/customizer/samples/profiles/profilesCustomization.css\"></link>",
         "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/customizer/compensar/zorro-theme.css\"></link>",
         dojo.doc.head,
         "last"
     );
-    waitFor(function() {document.querySelector('.orglogo').src = 'http://voyageursdusoir.vendee.fr/wp-content/uploads/2015/09/Z-604x270.png';}, '.orglogo')
-  }
-
-}
-
-function inIframe () {
-    try {
-        return window.self !== window.top;
-    } catch (e) {
-        return true;
-    }
 }
