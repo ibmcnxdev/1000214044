@@ -28,7 +28,7 @@
 .lotusui30 a:active,
 .lotusui30 a:focus,
 .lotusui30 a:hover {
-    color: #3e9ad5
+    color: #325c80
 }
 
 .lotusui30_layout .lotusColLeft a,
@@ -360,7 +360,7 @@ body.lotusui30.lotusLogin2 {
 }
 
 .lotusui30 .lotusDialog .lotusDialogHeader {
-    background: no-repeat #3e9ad5;
+    background: no-repeat #325c80;
     border-bottom: 0;
     padding: 15px 20px
 }
@@ -384,7 +384,7 @@ body.lotusui30.lotusLogin2 {
 }
 
 .lotusui30dojo_sharebox .lcSharebox .lotusTabDialog .dijitTabListContainer-top {
-    background: no-repeat #3e9ad5;
+    background: no-repeat #325c80;
     padding-top: 10px
 }
 
@@ -481,7 +481,7 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusTileOn,
 .lotusui30 .lotusTreeOn {
     background-color: transparent;
-    border-color: #3e9ad5;
+    border-color: #325c80;
     border-width: 2px 0 0
 }
 
@@ -1309,7 +1309,7 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusPalette .lotusPaging a:active,
 .lotusui30 .lotusPalette .lotusPaging a:focus,
 .lotusui30 .lotusPalette .lotusPaging a:hover {
-    color: #3e9ad5
+    color: #325c80
 }
 
 .lotusui30 .lotusSearch .lotusSearchButton,
@@ -2214,13 +2214,13 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusBanner {
     position: relative;
     z-index: 11;
-    background: #3e9ad5;
+    background: #325c80;
     padding: 0
 }
 
 .lotusui30 div.lotusBanner .lotusRightCorner {
     overflow: hidden;
-    background: #3e9ad5;
+    background: #325c80;
     padding-bottom: 1px
 }
 
@@ -2405,7 +2405,7 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusBanner ul.lotusInlinelist li a:hover,
 .lotusui30 .lotusBanner ul.lotusInlinelist li.lotusHover a {
     color: #fff;
-    background: #3e9ad5
+    background: #325c80
 }
 
 .lotusui30 .lotusBanner ul.lotusInlinelist li a:active,
@@ -2610,7 +2610,7 @@ div#lconnheadermenu-notifications {
 }
 
 .lotusui30 .lotusNavMenu tr #recentCommunities {
-    color: #3e9ad5;
+    color: #325c80;
     padding: 0;
     font-size: inherit
 }
@@ -3443,13 +3443,13 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
 }
 
 .lotusLogin2 .lotusui30_layout .lotusDescription p {
-    color: #3e9ad5
+    color: #325c80
 }
 
 .lotusLogin2 .lotusui30_layout .lotusLoginBox .lotusHeading,
 .lotusLogin2 .lotusui30_layout .lotusLoginBox .lotusHeading2,
 .lotusLogin2 .lotusui30_layout .lotusLoginBox .lotusLoginForm label {
-    color: #3e9ad5;
+    color: #325c80;
     margin-bottom: 10px
 }
 
@@ -3834,7 +3834,7 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
 
 .lotusui30 .lotusPlaceBar .lotusBtn:active,
 .lotusui30 .lotusPlaceBar .lotusBtn:hover {
-    background: #3e9ad5;
+    background: #325c80;
     transform: translateZ(0);
     transition-duration: .3s;
     transition-property: box-shadow
@@ -4016,7 +4016,7 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
     padding: 10px 15px;
     font-size: .91667em;
     color: #fff;
-    background-color: #3e9ad5;
+    background-color: #325c80;
     border-bottom: 1px solid #ececec;
     margin-bottom: 2px
 }
@@ -4434,7 +4434,7 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
 }
 
 .lotusui30 .lotusLikeLightBox .lotusLikeHeader {
-    background: #3e9ad5;
+    background: #325c80;
     border-bottom: 1px solid #ccc;
     overflow: hidden;
     padding: 8px 10px
@@ -5317,7 +5317,7 @@ html:not(.lconnFiles) body:not(.simplepage).lotusui30 .lotusFrame #removeBlankFo
 .app_palette_modal_header {
     height: 80px;
     padding: 20px 30px 0;
-    background-color: #3e9ad5;
+    background-color: #325c80;
     position: relative;
     color: #FFF;
     font-size: 14px;
@@ -5512,7 +5512,7 @@ html:not(.lconnFiles) body:not(.simplepage).lotusui30 .lotusFrame #removeBlankFo
 .lotusui30 .lotusMenu .lotusTree .dijitTreeRow.lotusSelected a {}
 
 .ics-scbanner {
-    background-color: #3e9ad5 !important;
+    background-color: #FF6600 !important;
 }
 
 .lotusui30 {
@@ -5533,12 +5533,12 @@ html:not(.lconnFiles) body:not(.simplepage).lotusui30 .lotusFrame #removeBlankFo
 }
 
 .lotusui30 .lotusStream #activityStreamMain.lotusWidgetBody .streamHeaderWrapper .lotusPaging {
-    background: #3e9ad5 !important;
+    background: #FF6600 !important;
 }
 
 .lotusStream #activityStreamMain.lotusWidgetBody .stream-finLeft,
 .lotusStream #activityStreamMain.lotusWidgetBody .stream-finRight {
-    background: #3e9ad5 !important;
+    background: #FF6600 !important;
 }
 
 #activityStream {
@@ -5566,31 +5566,31 @@ html:not(.lconnFiles) body:not(.simplepage).lotusui30 .lotusFrame #removeBlankFo
 }
 
 .lotusui30 .lotusFlyout .lotusFlyoutHeader {
-    background-color: #3e9ad5 !important;
+    background-color: #FF6600 !important;
 }
 
 
-/*.lotusui30dojo a:hover, .lotusui30dojo a:focus, .lotusui30dojo a:active{background-color:#3e9ad5 !important;}*/
+/*.lotusui30dojo a:hover, .lotusui30dojo a:focus, .lotusui30dojo a:active{background-color:#FF6600 !important;}*/
 
 .lotusui30 .lotusFlyoutInner .lotusTabCondensed .lotusTabs li.lotusSelected {
-    border-bottom: 2px solid #3e9ad5 !important;
+    border-bottom: 2px solid #FF6600 !important;
 }
 
 .lotusui30 .lotusFlyoutInner .lotusTabCondensed {
-    border-bottom: 1px solid #3e9ad5 !important;
+    border-bottom: 1px solid #FF6600 !important;
 }
 
 .search-history-view-ui .lotusui30 .icSearchPaneButton {
-    background-color: #3e9ad5;
+    background-color: #FF6600;
     outline: #9a9a9a solid 1px;
 }
 
 
-/*.lotusui30dojo a, .lotusui30dojo a:visited{color:#3e9ad5  !important;}*/
+/*.lotusui30dojo a, .lotusui30dojo a:visited{color:#FF6600  !important;}*/
 
 .search-history-view-ui .lotusui30 .icSearchPaneButton.icSearchBarMode .icSearchBar .dijitTextBox,
 .search-history-view-ui .lotusui30 .icSearchPane .icTopSection .icSearchBar .dijitTextBox {
-    border-bottom-color: #3e9ad5 !important;
+    border-bottom-color: #FF6600 !important;
 }
 
 #lotusColRight {
@@ -5606,86 +5606,86 @@ html:not(.lconnFiles) body:not(.simplepage).lotusui30 .lotusFrame #removeBlankFo
 }
 
 .lotusui30 .lotusMain span.lotusBtn a:hover {
-    color: #3e9ad5 !important;
+    color: #FF6600 !important;
 }
 
 .lotusui30 .lotusMain span.lotusBtn a:hover {
-    box-shadow: 0 0 0 2px #3e9ad5 inset;
+    box-shadow: 0 0 0 2px #FF6600 inset;
     background: #fff;
-    color: #3e9ad5;
+    color: #FF6600;
 }
 
 .lotusui30 .lotusMain span.lotusBtn a {
     background-color: #fff;
-    color: #3e9ad5;
+    color: #FF6600;
     border-radius: 0;
     background-image: none;
-    box-shadow: 0 0 0 1px #3e9ad5 inset;
+    box-shadow: 0 0 0 1px #FF6600 inset;
     display: block;
 }
 
 .lotusui30 .tabNavBar .lotusTabs li.lotusSelected {
-    border-bottom: 4px solid #3e9ad5 !important;
+    border-bottom: 4px solid #FF6600 !important;
 }
 
 .lotusui30 .lotusPlaceBar .lotusInlinelist li a,
 .lotusui30 .lotusPlaceBar .lotusInlinelist li a:visited {
-    color: #3e9ad5 !important;
+    color: #FF6600 !important;
 }
 
 .communities-widget-appearance .lotusui30 .widgetContainer .lotusWidget2 .lotusTabs li.lotusSelected {
-    border-bottom: 4px solid #3e9ad5 !important;
+    border-bottom: 4px solid #FF6600 !important;
 }
 
 .lotusui30 .lotusTabContainer {
-    border-bottom: 1px solid #3e9ad5 !important;
+    border-bottom: 1px solid #FF6600 !important;
 }
 
 .communities-widget-appearance .lotusui30_layout .lotusColLeft div:not(#profilePaneLeft):not(#profilePaneRight):not(#profileBody):not(#tabsWidget1_widgetId_container)>.lotusWidget2 a,
 .communities-widget-appearance .lotusui30 div:not(#profilePaneLeft):not(#profilePaneRight):not(#profileBody):not(#tabsWidget1_widgetId_container)>.lotusWidget2 a.lotusAction {
-    color: #3e9ad5 !important;
+    color: #FF6600 !important;
 }
 
 .lotusProfiles .vcard a {
-    color: #3e9ad5 !important
+    color: #FF6600 !important
 }
 
 body.lotusProfiles .lotusBtn {
-    box-shadow: 0 0 0 1px #3e9ad5 inset;
+    box-shadow: 0 0 0 1px #FF6600 inset;
     color: #000 !important;
 }
 
 body.lotusProfiles .lotusBtn:hover {
-    box-shadow: 0 0 0 2px #3e9ad5 inset;
+    box-shadow: 0 0 0 2px #FF6600 inset;
     background: #fff;
-    color: #3e9ad5;
+    color: #FF6600;
 }
 
 body.lotusProfiles input.lotusFormButton {
-    color: #3e9ad5;
+    color: #FF6600;
     border-radius: 0;
     background-image: none;
-    box-shadow: 0 0 0 1px #3e9ad5 inset;
+    box-shadow: 0 0 0 1px #FF6600 inset;
 }
 
 body.lotusProfiles .lotusui30 input.lotusFormButton:hover {
-    box-shadow: 0 0 0 2px #3e9ad5 inset;
+    box-shadow: 0 0 0 2px #FF6600 inset;
     background: #fff;
-    color: #3e9ad5;
+    color: #FF6600;
 }
 
 body.lotusProfiles li.lotusSelected {
-    border-bottom: 2px solid #3e9ad5
+    border-bottom: 2px solid #FF6600
 }
 
 body.lotusProfiles li.lotusSelected {
-    border-bottom: 2px solid #3e9ad5;
+    border-bottom: 2px solid #FF6600;
 }
 
 .lotusDialogHeader {
-    background-color: #3e9ad5 !important
+    background-color: #FF6600 !important
 }
 
 .ics-viewer .ics-viewer-banner .ics-viewer-toolbar .ics-viewer-action-roundtripedit a {
-    background-color: #3e9ad5 !important;
+    background-color: #FF6600 !important;
 }
