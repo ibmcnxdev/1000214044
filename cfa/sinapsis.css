@@ -28,7 +28,7 @@
 .lotusui30 a:active,
 .lotusui30 a:focus,
 .lotusui30 a:hover {
-    color: #325c80
+    color: #3e9ad5
 }
 
 .lotusui30_layout .lotusColLeft a,
@@ -360,7 +360,7 @@ body.lotusui30.lotusLogin2 {
 }
 
 .lotusui30 .lotusDialog .lotusDialogHeader {
-    background: no-repeat #325c80;
+    background: no-repeat #3e9ad5;
     border-bottom: 0;
     padding: 15px 20px
 }
@@ -384,7 +384,7 @@ body.lotusui30.lotusLogin2 {
 }
 
 .lotusui30dojo_sharebox .lcSharebox .lotusTabDialog .dijitTabListContainer-top {
-    background: no-repeat #325c80;
+    background: no-repeat #3e9ad5;
     padding-top: 10px
 }
 
@@ -481,7 +481,7 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusTileOn,
 .lotusui30 .lotusTreeOn {
     background-color: transparent;
-    border-color: #325c80;
+    border-color: #3e9ad5;
     border-width: 2px 0 0
 }
 
@@ -1309,7 +1309,7 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusPalette .lotusPaging a:active,
 .lotusui30 .lotusPalette .lotusPaging a:focus,
 .lotusui30 .lotusPalette .lotusPaging a:hover {
-    color: #325c80
+    color: #3e9ad5
 }
 
 .lotusui30 .lotusSearch .lotusSearchButton,
@@ -2214,13 +2214,13 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusBanner {
     position: relative;
     z-index: 11;
-    background: #325c80;
+    background: #3e9ad5;
     padding: 0
 }
 
 .lotusui30 div.lotusBanner .lotusRightCorner {
     overflow: hidden;
-    background: #325c80;
+    background: #3e9ad5;
     padding-bottom: 1px
 }
 
@@ -2405,7 +2405,7 @@ body.lotusui30.lotusLogin2 {
 .lotusui30 .lotusBanner ul.lotusInlinelist li a:hover,
 .lotusui30 .lotusBanner ul.lotusInlinelist li.lotusHover a {
     color: #fff;
-    background: #325c80
+    background: #3e9ad5
 }
 
 .lotusui30 .lotusBanner ul.lotusInlinelist li a:active,
@@ -2610,7 +2610,7 @@ div#lconnheadermenu-notifications {
 }
 
 .lotusui30 .lotusNavMenu tr #recentCommunities {
-    color: #325c80;
+    color: #3e9ad5;
     padding: 0;
     font-size: inherit
 }
@@ -3443,13 +3443,13 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
 }
 
 .lotusLogin2 .lotusui30_layout .lotusDescription p {
-    color: #325c80
+    color: #3e9ad5
 }
 
 .lotusLogin2 .lotusui30_layout .lotusLoginBox .lotusHeading,
 .lotusLogin2 .lotusui30_layout .lotusLoginBox .lotusHeading2,
 .lotusLogin2 .lotusui30_layout .lotusLoginBox .lotusLoginForm label {
-    color: #325c80;
+    color: #3e9ad5;
     margin-bottom: 10px
 }
 
@@ -3834,7 +3834,7 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
 
 .lotusui30 .lotusPlaceBar .lotusBtn:active,
 .lotusui30 .lotusPlaceBar .lotusBtn:hover {
-    background: #325c80;
+    background: #3e9ad5;
     transform: translateZ(0);
     transition-duration: .3s;
     transition-property: box-shadow
@@ -4016,7 +4016,7 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
     padding: 10px 15px;
     font-size: .91667em;
     color: #fff;
-    background-color: #325c80;
+    background-color: #3e9ad5;
     border-bottom: 1px solid #ececec;
     margin-bottom: 2px
 }
@@ -4434,7 +4434,7 @@ html[lang=el] .lotusui30 .widgetContainer .lotusTabContainer .lotusTabs li {
 }
 
 .lotusui30 .lotusLikeLightBox .lotusLikeHeader {
-    background: #325c80;
+    background: #3e9ad5;
     border-bottom: 1px solid #ccc;
     overflow: hidden;
     padding: 8px 10px
@@ -5317,7 +5317,7 @@ html:not(.lconnFiles) body:not(.simplepage).lotusui30 .lotusFrame #removeBlankFo
 .app_palette_modal_header {
     height: 80px;
     padding: 20px 30px 0;
-    background-color: #325c80;
+    background-color: #3e9ad5;
     position: relative;
     color: #FFF;
     font-size: 14px;
