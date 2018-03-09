@@ -19,11 +19,9 @@ var waitFor = function (callback, elXpath, maxInter, waitTime) {
 
 if (typeof (dojo) != "undefined") {
     dojo.place(
-        //        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/muse-static/samples/profiles/profilesCustomization.css\"></link>",
-        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/customizer/cfa/css/sinapsis.css\"></link>",
+        //        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/customizer/samples/profiles/profilesCustomization.css\"></link>",
+        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/customizer/cfa/js/zorro-theme.css\"></link>",
         dojo.doc.head,
         "last"
     );
-    waitFor(function() {document.querySelector('.orglogo').src = 'http://jleon.mybluemix.net/apps/customizer/img/efectivosi/Sinapsis.png';}, '.orglogo')
-    
 }
